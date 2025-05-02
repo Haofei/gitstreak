@@ -1,4 +1,4 @@
-![](https://i.imgur.com/9ucpYgY.png)
+![](https://www.xudongz.com/static/840d53a20dfaa623679fbe6497731fec5a93f3f08de11ad25ff703be8c1867cf.png)
 
 ## Installation
 
@@ -36,25 +36,25 @@ a list of repository every time.
 gitstreak go
 ```
 
-![](https://i.imgur.com/dzouqZQ.png)
+![](https://www.xudongz.com/static/fcf9ccd995a3058d29f6f7a11767db09cbb6856e6c19879d29d25acd8fc40531.png)
 
 ```
 gitstreak linux
 ```
 
-![](https://i.imgur.com/zcSxFr3.png)
+![](https://www.xudongz.com/static/e0eb55d708799132ef54a3b5ef9afd4885209d045dd12417df1232837c79f95a.png)
 
 ```
 gitstreak -author torvalds@linux-foundation.org linux
 ```
 
-![](https://i.imgur.com/m8TtLAy.png)
+![](https://www.xudongz.com/static/87fa55217c286e89205b2d02b1e855f8a429d3ac98262336ae6ea50236bb0650.png)
 
 ```
 gitstreak node
 ```
 
-![](https://i.imgur.com/FW0cp6M.png)
+![](https://www.xudongz.com/static/f7fdf76e9cd981d32cccb091b1253e8b035459613b1b9d601882e073399c02aa.png)
 
 ## Author
 
